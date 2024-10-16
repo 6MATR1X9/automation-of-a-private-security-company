@@ -1,0 +1,4 @@
+﻿  программа.cpp
+C:\Users\PABLO\Desktop\курсовая\программа\программа\программа.cpp(49,12): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\PABLO\Desktop\курсовая\программа\программа\программа.cpp(55,9): warning C4101: _actions: неиспользованная локальная переменная
+  программа.vcxproj -> C:\Users\PABLO\Desktop\курсовая\программа\x64\Debug\программа.exe
